@@ -1,0 +1,7 @@
+Ion Auth (Authentication):
+
+http://www.grocerycrud.com/codeigniter-simplicity (https://github.com/benedmunds/CodeIgniter-Ion-Auth)
+
+CodeIgniter Simplicity (Themeing):
+
+http://www.grocerycrud.com/codeigniter-simplicity (https://github.com/scoumbourdis/codeigniter-simplicity)
